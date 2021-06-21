@@ -1,3 +1,4 @@
+help.cfg
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -148,3 +149,5 @@ dmypy.json
 # папки со статикой и медиа
 media/
 
+/sent_emails
+/backup
